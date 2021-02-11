@@ -1,0 +1,13 @@
+C:\Users\Computer\Desktop\Temporary Projects\SDD Assignment - Maths Game\bin\Debug\SDD Assignment - Maths Game.exe.config
+C:\Users\Computer\Desktop\Temporary Projects\SDD Assignment - Maths Game\bin\Debug\SDD Assignment - Maths Game.exe
+C:\Users\Computer\Desktop\Temporary Projects\SDD Assignment - Maths Game\bin\Debug\SDD Assignment - Maths Game.pdb
+C:\Users\Computer\Desktop\Temporary Projects\SDD Assignment - Maths Game\bin\Debug\SDD Assignment - Maths Game.xml
+C:\Users\Computer\Desktop\Temporary Projects\SDD Assignment - Maths Game\obj\Debug\SDD Assignment - Maths Game.vbprojAssemblyReference.cache
+C:\Users\Computer\Desktop\Temporary Projects\SDD Assignment - Maths Game\obj\Debug\SDD_Assignment___Maths_Game.Form1.resources
+C:\Users\Computer\Desktop\Temporary Projects\SDD Assignment - Maths Game\obj\Debug\SDD_Assignment___Maths_Game.Form2.resources
+C:\Users\Computer\Desktop\Temporary Projects\SDD Assignment - Maths Game\obj\Debug\SDD_Assignment___Maths_Game.Resources.resources
+C:\Users\Computer\Desktop\Temporary Projects\SDD Assignment - Maths Game\obj\Debug\SDD Assignment - Maths Game.vbproj.GenerateResource.cache
+C:\Users\Computer\Desktop\Temporary Projects\SDD Assignment - Maths Game\obj\Debug\SDD Assignment - Maths Game.vbproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\Temporary Projects\SDD Assignment - Maths Game\obj\Debug\SDD Assignment - Maths Game.exe
+C:\Users\Computer\Desktop\Temporary Projects\SDD Assignment - Maths Game\obj\Debug\SDD Assignment - Maths Game.xml
+C:\Users\Computer\Desktop\Temporary Projects\SDD Assignment - Maths Game\obj\Debug\SDD Assignment - Maths Game.pdb
